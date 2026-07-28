@@ -1,2 +1,4 @@
 #Ingore node_modules node_modules/
 #Ingore environment files .env
+node_modules/
+.env
